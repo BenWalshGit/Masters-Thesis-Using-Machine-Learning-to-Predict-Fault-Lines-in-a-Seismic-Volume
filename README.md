@@ -1,1 +1,2 @@
-# Masters-Thesis-Using-Machine-Learning-to-Predict-Fault-Lines-in-a-Seismic-Volume
+# Using Machine Learning Architectures to Predict Fault Lines in a Seismic Volume
+
